@@ -1,0 +1,10 @@
+
+.present {
+    background-color: rgb(238, 238, 180);
+}
+.past {
+    background-color: rgb(224, 140, 140);
+}
+.future {
+    background-color: rgb(141, 190, 163);
+}
